@@ -1,7 +1,4 @@
 # Cognifyz-Python-Internship-Work
-
-# Cognifyz Python Internship Work
-
 This repository contains the tasks completed during the Python Development Internship at Cognifyz IT Solutions.
 
 ## Internship Details
